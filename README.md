@@ -10,6 +10,8 @@ Write a C program to read 3 characters one by one and print the characters in a 
 4.	End the program.
 
 ## PROGRAM:
+
+```
 #include <stdio.h>
 
 int main() {
@@ -25,7 +27,7 @@ int main() {
 
     return 0;
 }
-
+```
 
 
 ## OUTPUT:
@@ -52,11 +54,11 @@ Write a C program to read A values and check whether A is positive number or not
 6.End the program.
 
 # PROGRAM:
+```
 #include <stdio.h>
 
 int main() {
     int A;
-
     printf("Enter a value for A: ");
     scanf("%d", &A);
 
@@ -68,7 +70,7 @@ int main() {
 
     return 0;
 }
-
+```
 
 
 # OUTPUT:
@@ -96,6 +98,8 @@ Write a program to find minimum between two fraction numbers using conditional o
 7.	Print the minimum value.
 
 ## PROGRAM:
+
+```
 #include <stdio.h>
 
 int main() {
@@ -112,7 +116,7 @@ int main() {
 
     return 0;
 }
-
+```
 
 ## OUTPUT:
 Enter first fraction number: 3.7
@@ -139,9 +143,10 @@ Write a C program to check whether the input value is equal to 1 using simple if
 6.	End the program.
 
 ## PROGRAM:
+```
 #include <stdio.h>
-
-int main() {
+int main() 
+{
     int value;
     printf("Enter a value: ");
     scanf("%d", &value);
@@ -152,7 +157,7 @@ int main() {
 
     return 0;
 }
-
+```
 
 
 ## OUTPUT:
@@ -182,8 +187,9 @@ c.	Else if percentage >= 36: Print “Division = Pass”
 9.	Else: Print “Division = Fail”
 10.	End
 ## PROGRAM:
-#include <stdio.h>
 
+```
+#include <stdio.h>
 int main() {
     int mark1, mark2, mark3, total;
     float percentage;
@@ -217,6 +223,7 @@ int main() {
 
     return 0;
 }
+```
 ## OUTPUT:
 Enter marks for Subject 1: 78
 Enter marks for Subject 2: 65
