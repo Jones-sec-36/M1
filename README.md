@@ -31,11 +31,8 @@ int main() {
 
 
 ## OUTPUT:
-Enter first character: A  
-Enter second character: B  
-Enter third character: C
+![image](https://github.com/user-attachments/assets/8ea4f9ea-d533-457e-ab80-189cbd7350f8)
 
-Characters in reverse order: C B A
 
 ## RESULT:
 Thus the program to read 3 characters one by one and print the characters in a reverse order has been executed successfully.
@@ -74,8 +71,8 @@ int main() {
 
 
 # OUTPUT:
-Enter a value for A: 5
-A is a positive number.
+![image](https://github.com/user-attachments/assets/9fa549af-8a46-4b9b-8b8f-3b01aa13a30d)
+
 
 # RESULT:
 Thus the program to read A values and check whether A is positive number or not has been executed successfully.
@@ -119,9 +116,8 @@ int main() {
 ```
 
 ## OUTPUT:
-Enter first fraction number: 3.7
-Enter second fraction number: 2.5
-Minimum number is: 2.50
+![image](https://github.com/user-attachments/assets/a3357fc7-53b1-4d9b-b110-1a6446b3139d)
+
 
 ## RESULT:
 Thus the program to find minimum between two fraction numbers using conditional operator or ternary operator has been executed successfully.
@@ -153,16 +149,17 @@ int main()
     if (value == 1)
     {
         printf("The value is equal to 1.\n");
+    } else {
+        printf("The value is not equal to 1.\n");
     }
-
     return 0;
 }
 ```
 
 
 ## OUTPUT:
-Enter a value: 1
-The value is equal to 1.
+![image](https://github.com/user-attachments/assets/743ac3e5-c4c1-423a-b034-916d5d31f756)
+
 
 ## RESULT:
 Thus the program to check whether the input value is equal to 1 using simple if statement has been executed successfully
@@ -225,12 +222,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-Enter marks for Subject 1: 78
-Enter marks for Subject 2: 65
-Enter marks for Subject 3: 80
-Result: First Division
-Total Marks = 223
-Percentage = 74.33%
+![image](https://github.com/user-attachments/assets/b1ef8295-db10-4651-a934-94f913f51b22)
+
 ## RESULT:
 The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
 
